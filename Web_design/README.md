@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my project!</h1>
 
-<h2> forciu.github.io//Web_design_projects/index.html </h2>
+<h2> https://forciu.github.io/Web_design_project/Web_design/</h2>
 
 <h3> Recommended resolution: 1920 x 1080 </h3>
 <div align=center margin= auto> 
